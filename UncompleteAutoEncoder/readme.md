@@ -8,9 +8,11 @@
 * Context :
     * The Objective is:
     * To build and train an Uncomplete AutoEncoder 
-    * 
     * The Challenge is an Unsupervised-SemiSupervised Problem 
     * 17 features from the dataset were taken as a Feature Space
+    * The features were compressed into a BottleNeck of 1/3 the input size and decoded
+    * A decoded output is of size 17 
+    * The Validation Loss was minimal
     
 
 * Source & Credit :
