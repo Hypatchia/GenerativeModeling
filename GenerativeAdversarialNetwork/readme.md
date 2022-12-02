@@ -10,12 +10,12 @@
     * To Implement a GAN training loop as it's different for Traditional Neural Networks
 * Architecture :
     * Generator 
-    \\
+    
     <img src="https://github.com/Hypatchia/GenerativeModeling/blob/main/GenerativeAdversarialNetwork/Generator_Diagram.png" height="40%" width="40%" >
-    \\
+
     * Discriminator 
     <img src="https://github.com/Hypatchia/GenerativeModeling/blob/main/GenerativeAdversarialNetwork/Discriminator_Diagram.png" height="40%" width="40%" >
-    \\
+
     * Generative Adversarial Network
      <img src="https://github.com/Hypatchia/GenerativeModeling/blob/main/GenerativeAdversarialNetwork/GAN_Diagram.png" height="40%" width="40%" >
    
