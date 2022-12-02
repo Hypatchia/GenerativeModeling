@@ -14,7 +14,12 @@
     * A decoded output is of size 17 
     * The Validation Loss was minimal
     
+* Architecture of the AUtoEncoder :
+<img src="https://github.com/Hypatchia/GenerativeModeling/blob/main/UncompleteAutoEncoder/AutoEncoder.png" height="40%" width="40%" >
 
+  
+  
+  
 * Source & Credit :
     * Observations were drawn from numerous weather stations. The daily observations are available from http://www.bom.gov.au/climate/data.
 
