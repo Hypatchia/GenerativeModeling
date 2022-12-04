@@ -2,6 +2,10 @@
 ##### About The Dataset :
 
 * Dataset : https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+* Technology : 
+   * Python 
+   * Tensorflow 
+   * keras Functional API
 * Content :
     * This dataset contains about 10 years of daily weather observations from many locations across Australia.
 
